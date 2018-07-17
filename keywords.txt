@@ -9,10 +9,10 @@
 Stats	KEYWORD1
 SimpleStats	KEYWORD1
 MovingAverage	KEYWORD1
-MovingStats     KEYWORD1
-AdaptiveNormalizer      KEYWORD1
-Normalizer  KEYWORD1
-MinMaxScaler    KEYWORD1
+MovingStats	KEYWORD1
+AdaptiveNormalizer	KEYWORD1
+Normalizer	KEYWORD1
+MinMaxScaler	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
